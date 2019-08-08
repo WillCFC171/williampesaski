@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+#div-body{
+    background-color: antiquewhite;
+    width: 550px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 250px;
+
+}
+#res{
+    font-size: 15pt;
+    padding-bottom: 5px;
+}

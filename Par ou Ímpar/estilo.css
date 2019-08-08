@@ -1,0 +1,29 @@
+body{
+    margin: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#res{
+    width: 65px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: 50px;
+    font-size: 50px;
+
+    
+}
+#div-body{
+    width: 280px;
+    background-color: aquamarine;
+    padding: 40px;
+    border-radius: 5px;
+    
+}
+h1{
+    margin-left: 20px;
+    font-size: 40px;
+
+}

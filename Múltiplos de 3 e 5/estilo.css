@@ -1,0 +1,30 @@
+body{
+    background: black;
+    margin-top: 250px;
+}
+h1{
+    color: white;
+}
+#div-body{
+    background-color: blueviolet;
+    width: 310px;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+
+}
+p{
+    color: white;
+}
+#res{
+    color: white;
+    margin-top: 10px;
+    font-size: 15pt;
+}
+#verificar{
+    margin-right: 45px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
